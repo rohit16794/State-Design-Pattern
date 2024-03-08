@@ -1,5 +1,6 @@
 Source : ChatGPT
-Let's consider a simple vending machine. The vending machine can have different states such as "Idle", "Selection Made", "Processing", and "Dispensing". Each state has its own behavior and transitions.
+Let's consider a simple vending machine. The vending machine can have different states such as "Idle", "Selection Made", "Processing", and "Dispensing". 
+Each state has its own behavior and transitions.
 
 The vending machine can transition between states based on user actions. For example:
 
